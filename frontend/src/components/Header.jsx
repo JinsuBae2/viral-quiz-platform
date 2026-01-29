@@ -6,9 +6,9 @@ const Header = () => {
         <header className="bg-white border-b border-gray-100 sticky top-0 z-50">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
                 <Link to="/" className="flex items-center gap-2 group">
-                    <span className="text-2xl transform group-hover:scale-110 transition-transform">🔥</span>
+                    <span className="text-2xl transform group-hover:scale-110 transition-transform">✨</span>
                     <span className="text-xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-                        ViralQuiz
+                        K-Vibe Test
                     </span>
                 </Link>
                 <nav className="hidden md:flex gap-6 text-sm font-medium text-gray-500">

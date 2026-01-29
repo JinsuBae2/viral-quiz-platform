@@ -8,7 +8,7 @@ const Footer = () => {
                     <span className="text-2xl">🔥</span>
                 </div>
                 <p className="text-gray-500 text-sm mb-2">
-                    © 2026 Viral Quiz Platform. All rights reserved.
+                    © 2026 K-Vibe Test. All rights reserved.
                 </p>
                 <p className="text-gray-400 text-xs">
                     이 사이트는 포트폴리오 목적으로 제작되었습니다.
